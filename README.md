@@ -94,4 +94,4 @@ This project demonstrates how machine learning can enhance intrusion detection b
 - 2 visualization outputs
 ## Author
 Madison Torres
-Computer Science Student | Cyber Defense Enthusiast
+Computer Science Graduate | Cyber Defense Enthusiast
